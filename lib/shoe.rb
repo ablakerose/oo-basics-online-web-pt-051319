@@ -13,6 +13,6 @@ class Shoe
   end
 
   def condition
-    puts "new" 
+    puts "new"
   end
 end
