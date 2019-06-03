@@ -13,6 +13,6 @@ class Shoe
   end
 
   def self.condition
-    
+    condition = new
   end
 end
