@@ -12,7 +12,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
-  def self.condition
-    condition = new
+  def self.condition=(condition)
+    @condition = new
   end
 end
